@@ -1,0 +1,16 @@
+---
+1: !ruby/object:Movie
+  title: Beetle Juice
+  director: Tim Burton
+  year: '1994'
+  id: 1
+2: !ruby/object:Movie
+  title: Earth Girls Are easy
+  director: Julien Temple
+  year: '1988'
+  id: 2
+3: !ruby/object:Movie
+  title: Queen of the Damned
+  director: Michael Rymer
+  year: '2002'
+  id: 3
